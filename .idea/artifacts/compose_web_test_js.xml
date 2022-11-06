@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="compose-web-test-js">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="compose-web-test-js.jar">
+      <element id="module-output" name="compose-web-test.jsMain" />
+    </root>
+  </artifact>
+</component>
